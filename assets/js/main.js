@@ -35,7 +35,7 @@ hoverChangeExperience(
 
 hoverChangeDescription(
   ".html",
-  "JAVA is my primary programming language that I have used to learn Data Structures and Algorithms, OOPS."
+  "Developed interactive dashboards and reports using Power BI, enhancing data visualization and decision-making processes."
 );
 hoverChangeDescription(
   ".css",
@@ -47,19 +47,19 @@ hoverChangeDescription(
 );
 hoverChangeDescription(
   ".sass",
-  "Flutter is a good skill to have coz we can create both Android & Ios from the same code so I am exploring flutter further."
+  "Expertly managed and analyzed large datasets using Excel, employing advanced functions and pivot tables to drive data-driven decisions."
 );
 hoverChangeDescription(
   ".react",
-  "HTML is the skeleton of any website so it is nessesary to have knowledge in this, I have a good amount of experience in this."
+  "Leveraged NumPy for efficient numerical computations and data manipulation, enhancing the performance of data analysis tasks."
 );
 hoverChangeDescription(
   ".next",
-  "CSS is used to to define styles for your web pages, I created some stunning pages using css's magic art and frameworks."
+  "Utilized Pandas for data cleaning, transformation, and analysis, streamlining workflows and enhancing data quality."
 );
 hoverChangeDescription(
   ".styled",
-  "JavaScript is used to  to make web pages interactive, there is so much more to learn about JS and I am working on it."
+  "Applied statistical methods to analyze and interpret complex data sets, providing actionable insights for business strategies."
 );
 hoverChangeDescription(
   ".tailwind",
