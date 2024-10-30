@@ -10,34 +10,27 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".digitalhouse",
-  `I have a strong background in web development, with expertise in building responsive and user-friendly websites using top web technologies in the market. I'm not only experienced but also passionate about this field, and I'm always excited to learn and develop websites. `,
-  "Frontend, UI-UX & backend",
-  "Experienced",
-  "Since 2021"
+  `With a strong academic background in computer science. I am well-equipped for data analysis roles. My experience with a wide range of programming languages, including Python and SQL, enables me to efficiently manipulate and analyze large datasets. My passion for uncovering insights and crafting data-driven solutions drives my interest in data analysis positions. `,
+  "SQL,EXCEL and Data Analysis",
+  "Analytics"
+  
 );
 
 hoverChangeExperience(
   ".zuplae",
-  `My expertise in mobile app development covers both iOS and Android platforms. I've worked on projects using multiple frameworks and platforms, allowing me to adapt and create solutions that cater to diverse user needs. I have a natural curiosity and an eagerness to learn more in this ever-evolving domain.`,
-  "Android and iOS",
-  "Hard Skilled",
-  "Since 2021"
+  `My expertise in data visualization, encompassing tool like Power BI positions me as a competent data analyst. I have successfully designed and implemented interactive dashboards and visual reports, and I'm enthusiastic about staying at the forefront of data visualization technologies.`,
+  "Power BI",
+  "Visualization"
+  
 );
 
-hoverChangeExperience(
-  ".codigofontetv",
-  `Beyond my core skills, I'm an explorer of new technologies, enthusiastic about mobile and web technologies, and adept at delivering software solutions. I also bring soft skills like time management, problem-solving, and creative thinking to every project.`,
-  "SoftSkills and more...",
-  "True nature",
-  "Long Ago..."
-);
 
 hoverChangeExperience(
   ".contweb",
-  `In the realm of content creation, my passion for design is evident. My content creation abilities extend to tools like Figma, Adobe, Photoshop, Flimora, & Canva,  allowing me to craft visually captivative content.`,
-  "Photo, Video Editing & Designing",
-  "Creative & Skilled",
-  "Since 2019"
+  `As a data analyst, I have demonstrated my proficiency in conducting thorough statistical analyses to uncover meaningful insights from complex datasets. With a keen interest in applying statistical methods to solve real-world problems, I find data analysis a perfect match for my skills and passion.`,
+  "Statistics",
+  "Statistical Analysis"
+  
 );
 
 hoverChangeDescription(
